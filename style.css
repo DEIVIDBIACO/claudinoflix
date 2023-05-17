@@ -19,3 +19,15 @@ text-align: center;
     display: grid;
     grid-template-columns: 25% 25% 25% 25%;
 }
+.containerbotao{
+background-color: yellowgreen;
+color: dimgrey;
+font-size: 40px;
+border-radius: 50px;
+
+
+
+}
+.botao{
+text-align: center;
+}
